@@ -2,7 +2,7 @@
 
 #### _powered by_
 
-![powered by Alpine](../TermuxAlpine/docs/images/alpinelinux-logo.svg)
+![powered by Alpine](../docs/images/alpinelinux-logo.svg)
 
 ![Optional Text](../TermuxAlpine/docs/images/ss.png)
 
